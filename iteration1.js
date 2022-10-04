@@ -5,5 +5,3 @@ function sum(numberOne, numberTwo) {
         return numberTwo
     }
 }
-
-console.log(sum(3,8))
